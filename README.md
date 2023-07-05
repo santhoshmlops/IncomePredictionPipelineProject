@@ -1,1 +1,1 @@
-# IncomePredictionPipelineProject
+# Income Prediction Pipeline Project
